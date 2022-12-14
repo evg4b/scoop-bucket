@@ -2,18 +2,18 @@
     "version": "0.0.8-beta",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/evg4b/uncors/releases/download/v0.0.8-beta/uncors_0.0.8-beta_Windows_x86.tar.gz",
+            "url": "https://github.com/evg4b/uncors/releases/download/v0.0.8-beta/uncors_0.0.8-beta_windows_386.tar.gz",
             "bin": [
                 "uncors.exe"
             ],
-            "hash": "62c26b1cb6304efb8834f26a0a7f6798c5542d99e2ed7ec25fbd207a4449af7d"
+            "hash": "da07424e76134af8a808fec7eed9b64e71eccecea1399147e4369da223277a62"
         },
         "64bit": {
-            "url": "https://github.com/evg4b/uncors/releases/download/v0.0.8-beta/uncors_0.0.8-beta_Windows_x86_64.tar.gz",
+            "url": "https://github.com/evg4b/uncors/releases/download/v0.0.8-beta/uncors_0.0.8-beta_windows_amd64.tar.gz",
             "bin": [
                 "uncors.exe"
             ],
-            "hash": "03d4c2b6ea572441c2b0f21831f5c79db052adf5a6572de4f40fe414aa9b88ed"
+            "hash": "d45372527df89eadb9bf6bb7e41e98dbf0708efbba15be9580a11119b2b31d26"
         }
     },
     "homepage": "https://github.com/evg4b/uncors",
