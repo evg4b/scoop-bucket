@@ -8,4 +8,3 @@
 ### Applications
 
 - [uncors](https://github.com/evg4b/uncors) - A simple dev HTTP/HTTPS reverse proxy for replacing CORS headers. ([Manifest](./bucket/uncors.json))
-- [donkey](https://github.com/evg4b/donkey) - 🫏 A small utility for batch file rpecessing using AI. ([Manifest](./bucket/donkey.json))
